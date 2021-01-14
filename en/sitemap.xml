@@ -13,23 +13,8 @@
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/"
-                />
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/</loc>
+    <lastmod>2020-09-18T11:30:03+05:30</lastmod>
   </url>
   
   <url>
@@ -47,13 +32,13 @@
     <lastmod>2020-09-24T11:33:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,22 +48,17 @@
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/</loc>
-    <lastmod>2020-09-24T11:33:33+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
     <lastmod>2020-09-24T11:33:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/posts/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/posts/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -97,13 +77,13 @@
     <lastmod>2020-09-24T11:33:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/tags/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/tags/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -113,8 +93,8 @@
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/</loc>
-    <lastmod>2020-09-18T11:30:03+05:30</lastmod>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/</loc>
+    <lastmod>2020-09-24T11:33:33+05:30</lastmod>
   </url>
   
   <url>
@@ -127,13 +107,13 @@
     <lastmod>2020-09-15T11:30:03+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/series/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/series/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -147,13 +127,13 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/categories/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/categories/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -167,13 +147,13 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/tags/css/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/tags/css/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -187,13 +167,13 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/tags/html/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/tags/html/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -207,13 +187,13 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/tags/markdown/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/tags/markdown/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -223,17 +203,37 @@
   </url>
   
   <url>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/"
+                />
+  </url>
+  
+  <url>
     <loc>https://adityatelange.github.io/hugo-PaperMod/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/categories/syntax/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/categories/syntax/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -247,13 +247,13 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/tags/themes/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/tags/themes/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -267,13 +267,13 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/categories/themes/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/categories/themes/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -287,13 +287,13 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/series/themes-guide/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="l3"
-                href="https://adityatelange.github.io/hugo-PaperMod/l3/series/themes-guide/"
+                hreflang="fa"
+                href="https://adityatelange.github.io/hugo-PaperMod/fa/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -346,7 +346,7 @@
     <loc>https://adityatelange.github.io/hugo-PaperMod/archives/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
+                hreflang="fr"
                 href="https://adityatelange.github.io/hugo-PaperMod/l2/archives/"
                 />
     <xhtml:link
@@ -360,8 +360,8 @@
     <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="l2"
-                href="https://adityatelange.github.io/hugo-PaperMod/l2/search/"
+                hreflang="fr"
+                href="https://adityatelange.github.io/hugo-PaperMod/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
