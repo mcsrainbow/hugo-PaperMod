@@ -163,7 +163,7 @@
 }
 
 .post-content .highlight {
-    margin: auto 0 20px
+    margin: 10px auto
 }
 
 .post-content .highlighttable {
@@ -333,12 +333,6 @@
 
 .share-buttons svg:active {
     transform: scale(.96)
-}
-
-@media (prefers-reduced-motion) {
-    .share-buttons svg:active {
-        transform: none
-    }
 }
 
 h1:hover .anchor,
